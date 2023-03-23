@@ -1,0 +1,6 @@
+## Interface: 100005
+## Title: Generic
+## SavedVariables: genericText
+## Notes: Generic addon frame
+## Version: 0.1
+Generic.lua
