@@ -1,6 +1,6 @@
 ## Interface: 100005
 ## Title: Generic
-## SavedVariables: genericText
+## SavedVariables: genericMethods, genericAttributes
 ## Notes: Generic addon frame
 ## Version: 0.1
 Generic.lua
